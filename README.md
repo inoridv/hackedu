@@ -1,2 +1,2 @@
 # hackedu
-Para hackathon
+Repo para hackathon de educação UNICAMP
